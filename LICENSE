@@ -1,17 +1,37 @@
-﻿PROPRIETARY AND CONFIDENTIAL SOFTWARE LICENSE
+PROPRIETARY AND CLOSED-SOURCE LICENSE
 Copyright (c) 2026 FixsuBot (https://fixsubot.pl). All rights reserved.
 
-1. PROPRIETARY RIGHTS
-This software, documentation, architecture, database schemas, and digital assets
-are the exclusive proprietary property of FixsuBot.
+1. PROPRIETARY RIGHTS & SCOPE
+All software, documentation, architecture, APIs, workflows, branding, graphics,
+and digital assets associated with FixsuBot are the exclusive proprietary property
+of FixsuBot and its creator.
 
-2. RESTRICTIONS
-Strictly prohibited without prior explicit written permission from the copyright holder:
-- Copying, distributing, publicizing, selling, leasing, or sublicensing any part of this software.
-- Reverse engineering, decompiling, or creating unauthorized derivative works.
-- Operating, hosting, or running private or public instances using this software, its brand, or assets.
+2. RESTRICTIONS & PROHIBITED USE
+Except as expressly permitted by applicable law, you may not, directly or indirectly:
+- Copy, distribute, reproduce, mirror, sell, lease, or sublicense any part of this material.
+- Reverse engineer, decompile, decrypt, disassemble, or extract source code, internal schemas,
+  or operational logic.
+- Host, deploy, run private or public instances, or build derivative bot services utilizing
+  FixsuBot's branding, concepts, assets, or documentation.
+- Use the documentation, schemas, or materials for the purpose of training machine learning
+  or artificial intelligence models without explicit written permission.
 
-3. ENFORCEMENT & DMCA TAKEDOWN
-Any unauthorized use, redistribution, or illegal reproduction of this material will
-result in immediate DMCA takedown actions filed with Discord Inc., hosting providers,
-and GitHub, accompanied by legal remedies under copyright and intellectual property laws.
+3. TRADEMARK & BRAND PROTECTION
+The name "FixsuBot", the domain "fixsubot.pl", logos, visual styling (Cyberpunk Crimson/Royal Violet),
+and unique feature identifiers are protected assets. Impersonation, unauthorized mirror services,
+or claiming affiliation with FixsuBot is strictly prohibited.
+
+4. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+THIS DOCUMENTATION AND RELATED SERVICES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE,
+DOCUMENTATION, OR THE USE OR OTHER DEALINGS IN THE SERVICE.
+
+5. ENFORCEMENT, DMCA & LEGAL REMEDIES
+Any unauthorized reproduction, exploitation, or illegal distribution will result in immediate:
+- DMCA Takedown notices served to GitHub, hosting providers, CDNs, and Discord Inc.
+- Reporting of Terms of Service violations to Discord Trust & Safety.
+- Pursuit of civil and statutory remedies under applicable international copyright
+  and intellectual property treaties.
